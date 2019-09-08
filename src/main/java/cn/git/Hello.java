@@ -3,7 +3,16 @@ package cn.git;
 public class Hello {
 
 	public Hello() {
-		// TODO Auto-generated constructor stub
 	}
+	
+	public static void main(String[] args) {
+		try {
+			
+		} catch (Exception e) {
+		} finally {
+			
+		}
+	}
+	
 
 }
